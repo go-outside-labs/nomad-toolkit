@@ -95,10 +95,15 @@ See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/
 * [Latex Resume builder](https://www.overleaf.com/login).
 
 
+### Tips for working remotely
+
+* [Setting yourself up for success while working remotely](https://opensource.com/article/20/3/remote-work).
+* [Zapier's guide to working remotely](https://zapier.com/learn/remote-work/).
+
 
 ----
 
-# Living & Working
+# Living 
 
 ### Nomad Communities
 
