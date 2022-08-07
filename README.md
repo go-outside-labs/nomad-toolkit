@@ -4,10 +4,11 @@
 
 See how to contribute [here](https://github.com/bt3gl/Awesome_Entrepreneur/blob/master/contributing.md).
 
-![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/bt3gl/Awesome_Entrepreneur) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
-
+<br>
 
 ----------
+
+<br>
 
 # Finding a Remote Job
 
