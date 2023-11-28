@@ -26,6 +26,18 @@
 
 <br>
 
+
+### planing a trip
+
+* [atlas obscura](https://www.atlasobscura.com/)
+* [triposo](https://www.triposo.com/gettheapp/)
+* [the basetrip](https://www.thebasetrip.com/en)
+* [cost of living](https://www.numbeo.com/cost-of-living/)
+* [on the grid](https://onthegrid.city/)
+* [teleport](https://teleport.org/)
+
+<br>
+
 ### useful
 
 * [sleeping in airports](https://www.sleepinginairports.net/)
