@@ -1,5 +1,5 @@
 
-## resources for documentatio
+## resources for documentation
 
 <br>
 
