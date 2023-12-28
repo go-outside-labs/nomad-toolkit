@@ -36,4 +36,4 @@
 ### useful
 
 * **[sleeping in airports](https://www.sleepinginairports.net/)**
-* **[local and regional eSIMs for travellers](https://www.airalo.com/)**
+* **[local and regional eSIMs for travelers](https://www.airalo.com/)**
