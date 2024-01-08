@@ -11,22 +11,21 @@
 <br>
 
 
-### trip insurances
+### insurances
 
 * **[insurance my trip](https://www.insuremytrip.com/)**
-
-
-<br>
-
-### health insurances
-
-
 * **[safetywing](https://safetywing.com/nomad-insurance)**
 * **[insured nomads](https://insurednomads.com)**
 * **[CDC travel notices](https://wwwnc.cdc.gov/travel/notices)**
 
 <br>
 
+
+### taxes
+
+* **[nomad tax](https://www.nomadtax.io/)**
+
+<br>
 
 ### banks and transfering money
 
@@ -39,6 +38,6 @@
 
 <br>
 
-#### cryptocurrencies
+##### cryptocurrencies
 
 * **[local bitcoins](https://localbitcoins.com/)**
