@@ -10,7 +10,7 @@
 
 
 
-**curated resources with resources and tips for (neo-cypherpunk) nomads:**
+**curated resources for (neo-cypherpunk) nomads:**
 
 
 
